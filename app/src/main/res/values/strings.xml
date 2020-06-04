@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InternChat</string>
+    <string name="hint">Enter a message</string>
+    <string name="name">Okorie Chidiuto</string>
+    <string name="time">11:49</string>
+    <string name="message">Hi, I am Chidiuto. This is my first chat app</string>
+</resources>

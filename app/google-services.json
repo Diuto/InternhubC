@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1043478109618",
+    "firebase_url": "https://internchat-98bd3.firebaseio.com",
+    "project_id": "internchat-98bd3",
+    "storage_bucket": "internchat-98bd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043478109618:android:8b2d5cf9701f14999058ab",
+        "android_client_info": {
+          "package_name": "com.example.internchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043478109618-rjlp6nbj27qfbh8bb6f422cl6qkbhpje.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.internchat",
+            "certificate_hash": "b0cd71db00ab6f748a0ead58c7d71352acfddde4"
+          }
+        },
+        {
+          "client_id": "1043478109618-o5gao19ahrumcapk1orpdqk9ljlkssaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQWZBls0wokXAtktKxUr2H8N0EEezBNBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043478109618-o5gao19ahrumcapk1orpdqk9ljlkssaa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
